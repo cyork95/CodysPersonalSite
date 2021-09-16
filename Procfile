@@ -1,0 +1,1 @@
+web: gunicorn CodysPersonalSite.wsgi --log-file -
